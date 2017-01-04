@@ -1,2 +1,2 @@
 # AI-Project-ContaPersone
-To do...
+progetto c++ esame A.I.
